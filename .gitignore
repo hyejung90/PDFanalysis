@@ -1,0 +1,16 @@
+# Secrets
+.env
+.emv
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Playwright 테스트 산출물
+.playwright-mcp/
+
+# 검토용 테스트 PDF
+test_pdfs/
